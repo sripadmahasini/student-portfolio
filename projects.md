@@ -24,3 +24,28 @@ Add clear, honest descriptions of academic and personal projects.
 - **My contribution:**
 - **What I learned:**
 - **Future improvement:**
+# My Academic and Personal Projects
+
+## Project 1: Simple ATM Simulator
+
+**Problem:** Banking operations such as checking balances and withdrawing money need a simple, menu-driven interface for practice.
+
+**Solution:** Developed a Java-based ATM simulator that allows users to authenticate using a PIN and perform basic banking operations.
+
+**Technologies:** Java, Object-Oriented Programming (OOP)
+
+**My Contribution:** Implemented account management, PIN validation, balance checking, deposits, withdrawals, and menu-based interactions.
+
+**Possible Improvement:** Add a database to store account details securely and maintain transaction history.
+
+## Project 2: Student Portfolio Website
+
+**Problem:** Students need a centralized platform to present their academic projects, technical skills, and achievements.
+
+**Solution:** Planned a student portfolio website to organize and display project information, skills, and certifications in one place.
+
+**Technologies:** HTML, CSS, JavaScript
+
+**My Contribution:** Worked on the project structure, feature planning, and organization of student portfolio content.
+
+**Possible Improvement:** Add user authentication, a database, and an admin dashboard to manage portfolio details dynamically.
